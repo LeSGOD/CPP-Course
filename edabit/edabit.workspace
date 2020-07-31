@@ -2,15 +2,18 @@
 <CodeLite_Workspace Name="edabit" Database="" Version="10000">
   <VirtualDirectory Name="easy">
     <Project Name="LogarithmsBasic" Path="LogarithmsBasic/LogarithmsBasic.project" Active="Yes"/>
+    <Project Name="ReplacingLetterswithHashes" Path="ReplacingLetterswithHashes/ReplacingLetterswithHashes.project"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="LogarithmsBasic" ConfigName="Debug"/>
+      <Project Name="ReplacingLetterswithHashes" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="LogarithmsBasic" ConfigName="Release"/>
+      <Project Name="ReplacingLetterswithHashes" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
