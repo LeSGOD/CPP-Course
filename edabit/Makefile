@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ LogarithmsBasic - Debug ]----------"
-	@cd "LogarithmsBasic" && "$(MAKE)" -f  "LogarithmsBasic.mk"
+	@echo "----------Building project:[ CanYouDrive - Debug ]----------"
+	@cd "CanYouDrive" && "$(MAKE)" -f  "CanYouDrive.mk"
 clean:
-	@echo "----------Cleaning project:[ LogarithmsBasic - Debug ]----------"
-	@cd "LogarithmsBasic" && "$(MAKE)" -f  "LogarithmsBasic.mk" clean
+	@echo "----------Cleaning project:[ CanYouDrive - Debug ]----------"
+	@cd "CanYouDrive" && "$(MAKE)" -f  "CanYouDrive.mk" clean

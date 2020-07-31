@@ -1,0 +1,10 @@
+-Ic:\program
+-I"C:\Users\LeSGOD\Desktop\CPP Course\edabit\CanYouDrive"
+-I"c:\program files\MinGW\include\c++\9.2.0"
+-I"c:\program files\MinGW\include\c++\9.2.0\x86_64-w64-mingw32"
+-I"c:\program files\MinGW\include\c++\9.2.0\backward"
+-I"c:\program files\MinGW\lib\gcc\x86_64-w64-mingw32\9.2.0\include"
+-I"c:\program files\MinGW\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed"
+-I"c:\program files\MinGW\x86_64-w64-mingw32\include"
+-target
+i686-pc-windows-gnu
