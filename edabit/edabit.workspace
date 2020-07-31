@@ -3,7 +3,8 @@
   <VirtualDirectory Name="easy">
     <Project Name="LogarithmsBasic" Path="LogarithmsBasic/LogarithmsBasic.project" Active="No"/>
     <Project Name="ReplacingLetterswithHashes" Path="ReplacingLetterswithHashes/ReplacingLetterswithHashes.project" Active="No"/>
-    <Project Name="CanYouDrive" Path="CanYouDrive/CanYouDrive.project" Active="Yes"/>
+    <Project Name="CanYouDrive" Path="CanYouDrive/CanYouDrive.project" Active="No"/>
+    <Project Name="CanYouDriveNestedIfStatements" Path="CanYouDriveNestedIfStatements/CanYouDriveNestedIfStatements.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -11,12 +12,14 @@
       <Project Name="LogarithmsBasic" ConfigName="Debug"/>
       <Project Name="ReplacingLetterswithHashes" ConfigName="Debug"/>
       <Project Name="CanYouDrive" ConfigName="Debug"/>
+      <Project Name="CanYouDriveNestedIfStatements" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="LogarithmsBasic" ConfigName="Release"/>
       <Project Name="ReplacingLetterswithHashes" ConfigName="Release"/>
       <Project Name="CanYouDrive" ConfigName="Release"/>
+      <Project Name="CanYouDriveNestedIfStatements" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
