@@ -5,7 +5,8 @@
     <Project Name="ReplacingLetterswithHashes" Path="ReplacingLetterswithHashes/ReplacingLetterswithHashes.project" Active="No"/>
     <Project Name="CanYouDrive" Path="CanYouDrive/CanYouDrive.project" Active="No"/>
     <Project Name="CanYouDriveNestedIfStatements" Path="CanYouDriveNestedIfStatements/CanYouDriveNestedIfStatements.project" Active="No"/>
-    <Project Name="AbsoluteSum" Path="AbsoluteSum/AbsoluteSum.project" Active="Yes"/>
+    <Project Name="AbsoluteSum" Path="AbsoluteSum/AbsoluteSum.project" Active="No"/>
+    <Project Name="TriangularNumberSequence" Path="TriangularNumberSequence/TriangularNumberSequence.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -15,6 +16,7 @@
       <Project Name="CanYouDrive" ConfigName="Debug"/>
       <Project Name="CanYouDriveNestedIfStatements" ConfigName="Debug"/>
       <Project Name="AbsoluteSum" ConfigName="Debug"/>
+      <Project Name="TriangularNumberSequence" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -23,6 +25,7 @@
       <Project Name="CanYouDrive" ConfigName="Release"/>
       <Project Name="CanYouDriveNestedIfStatements" ConfigName="Release"/>
       <Project Name="AbsoluteSum" ConfigName="Release"/>
+      <Project Name="TriangularNumberSequence" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
